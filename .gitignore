@@ -1,0 +1,10 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore the output folder and compiled executables
+output/
+*.exe
+*.out
+
+# Ignore any other binary files
+bin/
